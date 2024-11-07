@@ -26,3 +26,8 @@ It was pretty straightforward once I knew this was Vigenère cipher, Just go to 
 ![Screenshot 2024-11-07 202403](https://github.com/user-attachments/assets/8997e1b1-d68b-4546-9709-a41aef440801)
 ### Flag
 picoCTF{D0NT_US3_V1G3N3R3_C1PH3R_ae82272q}
+
+## Mob Psycho
+### Question
+![Screenshot 2024-11-07 203633](https://github.com/user-attachments/assets/d9a8dfb0-eead-4c65-a758-ec2a310e901e)
+
